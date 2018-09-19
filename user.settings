@@ -103,14 +103,14 @@
     },
     "terminal": {
         "@antialiasedfonts": true,
-        "@backgroundColor": "#111111",
+        "@backgroundColor": "#153649",
         "@blinking": false,
         "@defaultEnvEditor": false,
         "@fontfamily": "Ubuntu Mono, Menlo, Consolas, monospace",
         "@fontsize": 12,
         "@foregroundColor": "#FFFFFF",
         "@scrollback": 1000,
-        "@selectionColor": "#005d8b"
+        "@selectionColor": "#515D77"
     },
     "tour": {
         "@default-complete": false
