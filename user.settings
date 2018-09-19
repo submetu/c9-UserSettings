@@ -107,7 +107,7 @@
         "@blinking": false,
         "@defaultEnvEditor": false,
         "@fontfamily": "Ubuntu Mono, Menlo, Consolas, monospace",
-        "@fontsize": 14,
+        "@fontsize": 12,
         "@foregroundColor": "#FFFFFF",
         "@scrollback": 1000,
         "@selectionColor": "#515D77"
