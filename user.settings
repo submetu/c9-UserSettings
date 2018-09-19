@@ -3,7 +3,7 @@
         "@animatedScroll": true,
         "@antialiasedfonts": false,
         "@behavioursEnabled": true,
-        "@cursorStyle": "smooth slim",
+        "@cursorStyle": "ace",
         "@displayIndentGuides": true,
         "@fadeFoldWidgets": true,
         "@fontFamily": "Consolas, Monaco, Menlo, Ubuntu Mono, source-code-pro, monospace",
@@ -64,7 +64,7 @@
         "@preview-navigate": false,
         "@preview-tree": false,
         "@revealfile": true,
-        "@skin": "flat-dark",
+        "@skin": "dark",
         "@treestyle": "default"
     },
     "key-bindings": {
@@ -103,14 +103,14 @@
     },
     "terminal": {
         "@antialiasedfonts": true,
-        "@backgroundColor": "#153649",
+        "@backgroundColor": "#111111",
         "@blinking": false,
         "@defaultEnvEditor": false,
         "@fontfamily": "Ubuntu Mono, Menlo, Consolas, monospace",
         "@fontsize": 12,
         "@foregroundColor": "#FFFFFF",
         "@scrollback": 1000,
-        "@selectionColor": "#515D77"
+        "@selectionColor": "#005d8b"
     },
     "tour": {
         "@default-complete": false
