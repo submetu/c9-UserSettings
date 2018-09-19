@@ -3,7 +3,7 @@
         "@animatedScroll": true,
         "@antialiasedfonts": false,
         "@behavioursEnabled": true,
-        "@cursorStyle": "smooth slim",
+        "@cursorStyle": "ace",
         "@displayIndentGuides": true,
         "@fadeFoldWidgets": true,
         "@fontFamily": "Consolas, Monaco, Menlo, Ubuntu Mono, source-code-pro, monospace",
@@ -23,12 +23,13 @@
         "@showInvisibles": false,
         "@showLineNumbers": true,
         "@showPrintMargin": true,
-        "@theme": "ace/theme/tomorrow_night_eighties",
+        "@theme": "ace/theme/cloud9_night_low_color",
         "@useWrapMode": false,
         "@wrapBehavioursEnabled": false,
         "@wrapToView": true,
         "custom-types": {
             "json()": {
+                "^searchresults": "c9search",
                 "settings": "javascript"
             }
         },
@@ -64,7 +65,7 @@
         "@preview-navigate": false,
         "@preview-tree": false,
         "@revealfile": true,
-        "@skin": "flat-dark",
+        "@skin": "dark",
         "@treestyle": "default"
     },
     "key-bindings": {
@@ -101,7 +102,7 @@
         "@show": true,
         "@title": false
     },
-    "terminal": {
+   "terminal": {
         "@antialiasedfonts": true,
         "@backgroundColor": "#153649",
         "@blinking": false,
