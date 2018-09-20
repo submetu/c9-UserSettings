@@ -6,7 +6,7 @@
         "@cursorStyle": "ace",
         "@displayIndentGuides": true,
         "@fadeFoldWidgets": true,
-        "@fontFamily": "Consolas, Monaco, Menlo, Ubuntu Mono, source-code-pro, monospace",
+        "@fontFamily": "Menlo,Consolas, Monaco, Ubuntu Mono, source-code-pro, monospace",
         "@fontSize": 12,
         "@highlightActiveLine": true,
         "@highlightGutterLine": true,
